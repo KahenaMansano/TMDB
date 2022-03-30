@@ -54,4 +54,6 @@ Projeto construido com:
 </div>
 
 <p>Quer ver o resultado? <a href="https://promobittest.surge.sh/" target="_blank">Clique aqui</a>.
- <p>Obs. Na tela de login, faça seu cadastro no formato: nome@nome.com senha:123456 (a senha precisa de 6 caracteres)</p>
+ <p>Obs. Na tela de login, faça seu cadastro no formato: <br/></p>
+ <p>nome@nome.com e senha:123456 <br/></p>
+<p>(a senha precisa de 6 caracteres)</p>
