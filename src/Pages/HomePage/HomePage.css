@@ -1,26 +1,21 @@
 .List {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-
+  gap: 1.5rem;
   margin-top: 29px;
-  margin-left: 112px;
-  margin-right: 80px;
 }
 
 .CardMovie {
-  width: 176px;
-  height: 320px;
-  margin-right: 32px;
-  margin-bottom: 48px;
+  text-align: center;
 }
 
 .ImgCard {
-  width: 100%;
+  width: 176px;
   height: 264px;
-  max-width: 100%;
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
+  display: inline-block;
 }
 
 .CardMovie:hover {
