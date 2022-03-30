@@ -48,6 +48,7 @@ Siga o [layout do figma](https://www.figma.com/file/rM7WPqhLY9ObnGzSCeWLxB/Teste
 Projeto construido com:
 
 - **JavaScript**
+- **CSS**
 - **React.js**
 - **Firebase**
 
