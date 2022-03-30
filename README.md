@@ -3,13 +3,14 @@
 <div align="center"><img src="https://img.shields.io/badge/-React.js-blue">  <img src="https://img.shields.io/badge/-Firebase-red">  </div>
 
 <p align="center">
- <a href="#objetivo">Introdução</a> •
- <a href="#screenshot">O desafio</a> • 
+ <a href="#introdução">Introdução</a> •
+ <a href="#introdução">O desafio</a> • 
  <a href="#funcionalidades">Funcionalidades concluídas</a> •  
  <a href="#screenshot">ScreenShot</a> •  
  <a href="#tecnologias">Tecnologias</a>
 </p>
-
+<div id="introdução">
+ 
 ## Introdução
 
 O objetivo do desafio proposto é permitir uma melhor avaliação das minhas habilidades.
@@ -20,6 +21,7 @@ Usando a API de filmes gratuita [themoviedb](https://developers.themoviedb.org/3
 Para garantir que o usuário encontre o filme que está procurando, essa lista deverá ser paginada.
 
 Siga o [layout do figma](https://www.figma.com/file/rM7WPqhLY9ObnGzSCeWLxB/Teste-Front-End) sugerido. Não há necessidade de ser pixel perfect mas respeite a composição, fontes e cores.
+</div>
 
 <div id="funcionalidades">
 
